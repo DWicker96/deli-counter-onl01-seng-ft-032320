@@ -10,8 +10,8 @@ def line(katz_deli)
 end
 
 # def take_a_number(katz_deli, new_customer)
-# 
-# 
+#
+#
 #   puts "Welcome, #{new_customer}. You are #{katz_deli.length} in line."
 # end
 
