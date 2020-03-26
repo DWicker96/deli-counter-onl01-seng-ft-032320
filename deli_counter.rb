@@ -16,6 +16,8 @@ def take_a_number(katz_deli, new_customer)
 end
 
 def now_serving(katz_deli)
-
-
+if condition
+   puts "Currently serving {katz_Deli}"
+ else
+ puts "Currently serving Grace."
 end
