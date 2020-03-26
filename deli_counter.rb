@@ -12,8 +12,9 @@ end
 def take_a_number(katz_deli, new_customer)
 
 
-  puts "Welcome, #{new_customer}. You are #{katz_deli.lenth} in line."
+  puts "Welcome, #{new_customer}. You are #{katz_deli.length} in line."
 end
+
 
 def now_serving(katz_deli)
 if katz_deli == <1
@@ -21,4 +22,5 @@ if katz_deli == <1
  else
  puts "Currently serving {first.katz_deli}"
  shift.katz_deli
+end
 end
